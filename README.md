@@ -1,4 +1,4 @@
-# Project1bk
+# Project1
 TRƯỜNG ĐẠI HỌC BÁCH KHOA HÀ NỘI
 Viện Công Nghệ Thông Tin Và Truyền Thông
 ĐỒ ÁN I
