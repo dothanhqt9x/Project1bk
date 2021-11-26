@@ -180,3 +180,4 @@ TÀI LIỆU THAM KHẢO
 5. Cách đọc và lưu từng ký tự trong file UTF8 : http://www.wikiwand.com/en/UTF-8#/Sample_code
 6 Tìm hiểu về C và Dev C++ : https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh
 
+#count the number of characters in Vietnamese
